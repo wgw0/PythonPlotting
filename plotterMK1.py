@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+# OLD VERSION BECAUSE IT NEEDS USAGE DATA TOO DUH
 # Data for the London Underground and Seoul Subway (in GBP billions)
 years = list(range(2013, 2024))
 london_costs_gbp = [2.30, 2.40, 2.45, 2.55, 2.60, 2.46, 2.50, 3.00, 3.04, 3.40, 3.50]
